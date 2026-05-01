@@ -65,6 +65,8 @@ Key observations:
 - Cardiovascular and respiratory outcomes appear most frequently  
 - Fewer observations are available in deeper taxonomy levels  
 
+### Data Distribution Example
+![](Images/datalayer.png)
 ---
 
 ## 6. Modeling Approach
