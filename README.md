@@ -231,16 +231,41 @@ The approach is scalable and can support large-scale research analysis.
 
 ## 14. How to Run
 
+### Requirements
+
 ```bash
 pip install -r requirements.txt
 ```
 
-Steps:
+1. Clone the repository:
 
-- Add OpenAI API key in `.env` file  
-- Run notebooks in order: Phase1 → Phase5  
-- Generate outputs and evaluate results  
+```bash
+git clone YOUR_REPOSITORY_LINK
+cd YOUR_REPOSITORY_NAME
+```
 
+2. Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Set your OpenAI API key:
+
+Create a `.env` file in the root directory and add:
+
+```
+OPENAI_API_KEY=your_key_here
+```
+
+4. Run the notebooks in order:
+
+- Phase1.ipynb  
+- Phase_2_PubMed.ipynb  
+- Phase_3.ipynb  
+- Phase_4.ipynb  
+- Phase_5.ipynb
+- 
 ---
 
 ## 15. Repository Structure
