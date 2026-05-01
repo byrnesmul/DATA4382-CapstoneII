@@ -1,0 +1,429 @@
+Study ID,First author,Year,Exposure_Layer1,Exposure_Layer2,Exposure_Layer3,Outcome_Layer1,Outcome_Layer2,Outcome_Layer3,Publication_Title,Journal,Exposure_type,Outcome_type,Statistical_significance (Yes/No),Statistical_significance_cutoff
+1,Wang C,2022,chemical,air pollution,short-term PM2.5 mass,biomarker,DNAmethylation,genes-450K,short- and intermediate-term exposure to ambient fine particulate elements and leukocyte epigenome-wide DNA methylation in older men: the Normative Aging Study,Environ Int,continuous,continuous,Yes,"Bonferroni correction, p-value < 4.96 × 10-9 (0.05/(360,272 × 28)"
+1,,,chemical,air pollution,short-term PM2.5 elemental components,biomarker,DNAmethylation,genes-450K,,,continuous,continuous,Yes,"Bonferroni correction, p-value < 3.81 × 10-10 (0.05/(360,272 × 28 × 13) for each of the 13 elemental components"
+1,,,chemical,air pollution,short-term black carbon,biomarker,DNAmethylation,genes-450K,,,continuous,continuous,Yes,"Bonferroni correction, p-value < 4.96 × 10-9 (0.05/(360,272 × 28)"
+1,,,chemical,air pollution,intermediate-term PM2.5 mass,biomarker,DNAmethylation,genes-450K,,,continuous,continuous,Yes,"Bonferroni correction, p-value < 4.96 × 10-9 (0.05/(360,272 × 28)"
+1,,,chemical,air pollution,intermediate-term PM2.5 elemental components,biomarker,DNAmethylation,genes-450K,,,continuous,continuous,Yes,"Bonferroni correction, p-value < 3.81 × 10-10 (0.05/(360,272 × 28 × 13) for each of the 13 elemental components"
+1,,,chemical,air pollution,intermediate-term black carbon,biomarker,DNAmethylation,genes-450K,,,continuous,continuous,Yes,"Bonferroni correction, p-value < 4.96 × 10-9 (0.05/(360,272 × 28)"
+2,Tracy SM,2022,physical,solar and geomagnetic activity,interplanetary magnetic field,biomarker,white blood cell counts,total white blood cell,associations between solar and geomagnetic activity and peripheral white blood cells in the Normative Aging Study,Environ Res,continuous,continuous,No,p-value < 0.05
+2,,,physical,solar and geomagnetic activity,sunspot number,biomarker,white blood cell counts,total white blood cell,,,continuous,continuous,Yes,p-value < 0.05
+2,,,physical,solar and geomagnetic activity,geomagnetic activity-K index,biomarker,white blood cell counts,total white blood cell,,,ordinal,continuous,No,p-value < 0.05
+2,,,physical,solar and geomagnetic activity,interplanetary magnetic field,biomarker,white blood cell counts,neutrophil concentration,,,continuous,continuous,Yes,p-value < 0.05
+2,,,physical,solar and geomagnetic activity,sunspot number,biomarker,white blood cell counts,neutrophil concentration,,,continuous,continuous,NA,p-value < 0.05
+2,,,physical,solar and geomagnetic activity,geomagnetic activity-K index,biomarker,white blood cell counts,neutrophil concentration,,,ordinal,continuous,Yes,p-value < 0.05
+2,,,physical,solar and geomagnetic activity,interplanetary magnetic field,biomarker,white blood cell counts,monocytes concentration,,,continuous,continuous,No,p-value < 0.05
+2,,,physical,solar and geomagnetic activity,sunspot number,biomarker,white blood cell counts,monocytes concentration,,,continuous,continuous,No,p-value < 0.05
+2,,,physical,solar and geomagnetic activity,geomagnetic activity-K index,biomarker,white blood cell counts,monocytes concentration,,,ordinal,continuous,No,p-value < 0.05
+2,,,physical,solar and geomagnetic activity,interplanetary magnetic field,biomarker,white blood cell counts,lymphocyte concentration,,,continuous,continuous,No,p-value < 0.05
+2,,,physical,solar and geomagnetic activity,sunspot number,biomarker,white blood cell counts,lymphocyte concentration,,,continuous,continuous,No,p-value < 0.05
+2,,,physical,solar and geomagnetic activity,geomagnetic activity-K index,biomarker,white blood cell counts,lymphocyte concentration,,,ordinal,continuous,No,p-value < 0.05
+2,,,physical,solar and geomagnetic activity,interplanetary magnetic field,biomarker,white blood cell counts,eosinophil concentration,,,continuous,continuous,No,p-value < 0.05
+2,,,physical,solar and geomagnetic activity,sunspot number,biomarker,white blood cell counts,eosinophil concentration,,,continuous,continuous,No,p-value < 0.05
+2,,,physical,solar and geomagnetic activity,geomagnetic activity-K index,biomarker,white blood cell counts,eosinophil concentration,,,ordinal,continuous,No,p-value < 0.05
+2,,,physical,solar and geomagnetic activity,interplanetary magnetic field,biomarker,white blood cell counts,basophil concentration,,,continuous,continuous,Yes,p-value < 0.05
+2,,,physical,solar and geomagnetic activity,sunspot number,biomarker,white blood cell counts,basophil concentration,,,continuous,continuous,Yes,p-value < 0.05
+2,,,physical,solar and geomagnetic activity,geomagnetic activity-K index,biomarker,white blood cell counts,basophil concentration,,,ordinal,continuous,Yes,p-value < 0.05
+3,Wang VA,2021,physical,solar and geomagnetic activity,interplanetary magnetic field,biomarker,blood pressure,diastolic blood pressure,solar activity is associated with diastolic and systolic blood pressure in elderly adults,J Am Heart Assoc,continuous,continuous,Yes,p-value < 0.05
+3,,,physical,solar and geomagnetic activity,sunspot number,biomarker,blood pressure,diastolic blood pressure,,,continuous,continuous,Yes,p-value < 0.05
+3,,,physical,solar and geomagnetic activity,geomagnetic activity-K index,biomarker,blood pressure,diastolic blood pressure,,,ordinal,continuous,Yes,p-value < 0.05
+3,,,physical,solar and geomagnetic activity,interplanetary magnetic field,biomarker,blood pressure,systolic blood pressure,,,continuous,continuous,Yes,p-value < 0.05
+3,,,physical,solar and geomagnetic activity,sunspot number,biomarker,blood pressure,systolic blood pressure,,,continuous,continuous,Yes,p-value < 0.05
+3,,,physical,solar and geomagnetic activity,geomagnetic activity-K index,biomarker,blood pressure,systolic blood pressure,,,ordinal,continuous,Yes,p-value < 0.05
+4,Gao X,2021,chemical,air pollution,short-term PM2.5 mass,biomarker,cognitive function,MMSE score,"short-term air pollution, cognitive performance, and nonsteroidal anti-inflammatory drug use in the veterans affairs Normative Aging Study",Nat Aging,continuous,continuous,Yes,p-value < 0.05
+4,,,chemical,air pollution,short-term PM2.5 mass,biomarker,cognitive function,global cognitive score,,,continuous,continuous,No,p-value < 0.05
+5,Gao X,2021,chemical,air pollution,short-term PM2.5 mass,biomarker,serum uric acid,serum uric acid,short-term exposure to PM 2.5 components and renal health: findings from the veterans affairs Normative Aging Study,J Hazard Mater,continuous,continuous,Yes,p-value < 0.05
+5,,,chemical,air pollution,short-term PM2.5 mass,disease,incident chronic kidney disease,incident chronic kidney disease,,,continuous,dichotomous,No,p-value < 0.05
+5,,,chemical,air pollution,short-term PM2.5 mass,biomarker,blood urea nitrogen,blood urea nitrogen,,,continuous,continuous,No,p-value < 0.05
+5,,,chemical,air pollution,short-term PM2.5 mass,biomarker,glomerular filtration rate,glomerular filtration rate,,,continuous,continuous,No,p-value < 0.05
+5,,,chemical,air pollution,short-term PM2.5 elemental components,biomarker,serum uric acid,serum uric acid,,,continuous,continuous,Yes,p-value < 0.05
+5,,,chemical,air pollution,short-term PM2.5 elemental components,disease,incident chronic kidney disease,incident chronic kidney disease,,,continuous,dichotomous,Yes,p-value < 0.05
+5,,,chemical,air pollution,short-term PM2.5 elemental components,biomarker,blood urea nitrogen,blood urea nitrogen,,,continuous,continuous,No,p-value < 0.05
+5,,,chemical,air pollution,short-term PM2.5 elemental components,biomarker,glomerular filtration rate,glomerular filtration rate,,,continuous,continuous,Yes,p-value < 0.05
+5,,,chemical,air pollution,short-term black carbon,biomarker,serum uric acid,serum uric acid,,,continuous,continuous,Yes,p-value < 0.05
+5,,,chemical,air pollution,short-term black carbon,disease,incident chronic kidney disease,incident chronic kidney disease,,,continuous,dichotomous,No,p-value < 0.05
+5,,,chemical,air pollution,short-term black carbon,biomarker,blood urea nitrogen,blood urea nitrogen,,,continuous,continuous,No,p-value < 0.05
+5,,,chemical,air pollution,short-term black carbon,biomarker,glomerular filtration rate,glomerular filtration rate,,,continuous,continuous,No,p-value < 0.05
+6,Nassan FL,2021,chemical,air pollution,short-term PM2.5 mass,biomarker,metabolites,untargeted metabolomics profiling,metabolomic signatures of the short-term exposure to air pollution and temperature,Environ Res,continuous,continuous,No,FDR q-value < 0.05
+6,,,chemical,air pollution,short-term NO2,biomarker,metabolites,untargeted metabolomics profiling,,,continuous,continuous,Yes,FDR q-value < 0.05
+6,,,chemical,air pollution,short-term ozone,biomarker,metabolites,untargeted metabolomics profiling,,,continuous,continuous,No,FDR q-value < 0.05
+6,,,physical,temperature,short-term temperature,biomarker,metabolites,untargeted metabolomics profiling,,,continuous,continuous,Yes,FDR q-value < 0.05
+6,,,chemical,air pollution,intermediate-term PM2.5 mass,biomarker,metabolites,untargeted metabolomics profiling,,,continuous,continuous,No,FDR q-value < 0.05
+6,,,chemical,air pollution,intermediate-term NO2,biomarker,metabolites,untargeted metabolomics profiling,,,continuous,continuous,Yes,FDR q-value < 0.05
+6,,,chemical,air pollution,intermediate-term ozone,biomarker,metabolites,untargeted metabolomics profiling,,,continuous,continuous,No,FDR q-value < 0.05
+6,,,physical,temperature,intermediate-term temperature,biomarker,metabolites,untargeted metabolomics profiling,,,continuous,continuous,Yes,FDR q-value < 0.05
+7,Nassan FL,2021,chemical,air pollution,short-term PM2.5 elemental components,biomarker,metabolites,untargeted metabolomics profiling,ambient PM2.5 species and ultrafine particle exposure and their differential metabolomic signatures,Environ Int,continuous,continuous,Yes,FDR q-value < 0.05
+7,,,chemical,air pollution,long-term PM2.5 elemental components,biomarker,metabolites,untargeted metabolomics profiling,,,continuous,continuous,Yes,FDR q-value < 0.05
+7,,,chemical,air pollution,intermediate-term PM2.5 elemental components,biomarker,metabolites,untargeted metabolomics profiling,,,continuous,continuous,Yes,FDR q-value < 0.05
+8,Peralta AA,2021,chemical,air pollution,short-term PM2.5 elemental components,biomarker,electrocardiogram,QT interval,associations between acute and long-term exposure to PM2.5 components and temperature with qt interval length in the VA Normative Aging Study,Eur J Prev Cardiol,continuous,continuous,No,p-value < 0.05
+8,,,chemical,air pollution,intermediate-term PM2.5 elemental components,biomarker,electrocardiogram,QT interval,,,continuous,continuous,No,p-value < 0.05
+8,,,chemical,air pollution,long-term PM2.5 elemental components,biomarker,electrocardiogram,QT interval,,,continuous,continuous,No,p-value < 0.05
+8,,,chemical,air pollution,short-term PM2.5 mass,biomarker,electrocardiogram,QT interval,,,continuous,continuous,No,p-value < 0.05
+8,,,chemical,air pollution,intermediate-term PM2.5 mass,biomarker,electrocardiogram,QT interval,,,continuous,continuous,Yes,p-value < 0.05
+8,,,chemical,air pollution,long-term PM2.5 mass,biomarker,electrocardiogram,QT interval,,,continuous,continuous,Yes,p-value < 0.05
+8,,,chemical,air pollution,short-term organic carbon,biomarker,electrocardiogram,QT interval,,,continuous,continuous,No,p-value < 0.05
+8,,,chemical,air pollution,intermediate-term organic carbon,biomarker,electrocardiogram,QT interval,,,continuous,continuous,Yes,p-value < 0.05
+8,,,chemical,air pollution,long-term organic carbon,biomarker,electrocardiogram,QT interval,,,continuous,continuous,Yes,p-value < 0.05
+8,,,chemical,air pollution,short-term nitrate,biomarker,electrocardiogram,QT interval,,,continuous,continuous,Yes,p-value < 0.05
+8,,,chemical,air pollution,intermediate-term nitrate,biomarker,electrocardiogram,QT interval,,,continuous,continuous,Yes,p-value < 0.05
+8,,,chemical,air pollution,long-term nitrate,biomarker,electrocardiogram,QT interval,,,continuous,continuous,Yes,p-value < 0.05
+8,,,chemical,air pollution,short-term sulfate,biomarker,electrocardiogram,QT interval,,,continuous,continuous,Yes,p-value < 0.05
+8,,,chemical,air pollution,intermediate-term sulfate,biomarker,electrocardiogram,QT interval,,,continuous,continuous,Yes,p-value < 0.05
+8,,,chemical,air pollution,long-term sulfate,biomarker,electrocardiogram,QT interval,,,continuous,continuous,Yes,p-value < 0.05
+8,,,physical,temperature,short-term temperature,biomarker,electrocardiogram,QT interval,,,continuous,continuous,Yes,p-value < 0.05
+8,,,physical,temperature,intermediate-term temperature,biomarker,electrocardiogram,QT interval,,,continuous,continuous,Yes,p-value < 0.05
+8,,,physical,temperature,long-term temperature,biomarker,electrocardiogram,QT interval,,,continuous,continuous,Yes,p-value < 0.05
+9,Peralta AA,2021,chemical,air pollution,short-term PM2.5 elemental components,biomarker,electrocardiogram,QT interval,associations between PM 2.5 metal components and qt interval length in the Normative Aging Study,Environ Res,continuous,continuous,Yes,p-value < 0.05
+10,Nassan FL,2021,chemical,air pollution,long-term PM2.5 mass,biomarker,metabolites,untargeted metabolomics profiling,metabolomic signatures of the long-term exposure to air pollution and temperature,Environ Health,continuous,continuous,Yes,p-value <0.01
+10,,,chemical,air pollution,long-term NO2,biomarker,metabolites,untargeted metabolomics profiling,,,continuous,continuous,Yes,p-value <0.01
+10,,,chemical,air pollution,long-term ozone,biomarker,metabolites,untargeted metabolomics profiling,,,continuous,continuous,No,p-value <0.01
+10,,,physical,temperature,long-term temperature-outdoor,biomarker,metabolites,untargeted metabolomics profiling,,,continuous,continuous,Yes,p-value <0.01
+11,Nwanaji-Enwerem JC,2021,biomarker,metabolites,one-carbon metabolites,biomarker,DNAmethylation,aging clocks,associations of plasma folate and vitamin b6 with blood DNA methylation age: an analysis of one-carbon metabolites in the VA Normative Aging Study,J Gerontol A Biol Sci Med Sci,continuous,continuous,Yes,p-value < 0.05
+12,Colicino E,2021,biomarker,bone lead,patella lead,biomarker,DNAmethylation,genes-450K,blood DNA methylation biomarkers of cumulative lead exposure in adults,J Expo Sci Environ Epidemiol,continuous,continuous,Yes,p-value <0.0001
+12,,,biomarker,bone lead,tibia lead,biomarker,DNAmethylation,genes-450K,,,continuous,continuous,Yes,p-value <0.0001
+13,Dolcini J,2020,physical,temperature,short-term temperature-outdoor,biomarker,cognitive function,MMSE score,age and mitochondrial DNA copy number influence the association between outdoor temperature and cognitive function: insights from the VA Normative Aging Study,Environ Epidemiol,continuous,continuous,Yes,p-value <0.05
+14,Dolcini J,2020,biomarker,mitochondrial DNA,mitochondrial DNA copy number,biomarker,DNAmethylation,aging clocks,"mitochondria and aging in older individuals: an analysis of DNA methylation age metrics, leukocyte telomere length, and mitochondrial DNA copy number in the VA Normative Aging Study",Aging (Albany NY),continuous,continuous,Yes,p-value ?0.05
+14,,,biomarker,mitochondrial DNA,mitochondrial DNA copy number,biomarker,leukocyte telomere length,leukocyte telomere length,,,continuous,continuous,No,p-value ?0.05
+15,Kelly RS,2020,biomarker,blood lead,blood lead,biomarker,metabolites,metabolites,metabolomic signatures of lead exposure in the VA Normative Aging Study,Environ Res,continuous,continuous,Yes,p-value <2.44E-4 (95%ENT)
+15,,,biomarker,toenail metals,toenail lead,biomarker,metabolites,metabolites,,,continuous,continuous,Yes,p-value <2.44E-4 (95%ENT)
+16,Wang C,2020,biomarker,DNAmethylation,aging clocks,biomarker,lung function,FEV1/FVC,biomarkers of aging and lung function in the Normative Aging Study,Aging (Albany NY),continuous,continuous,Yes,FDR q-value < 0.05
+16,,,biomarker,leukocyte telomere length,leukocyte telomere length,biomarker,lung function,FEV1/FVC,,,continuous,continuous,No,FDR q-value < 0.05
+16,,,biomarker,mitochondrial DNA,mitochondrial DNA copy number,biomarker,lung function,FEV1/FVC,,,continuous,continuous,No,FDR q-value < 0.05
+16,,,biomarker,DNAmethylation,aging clocks,biomarker,lung function,FEV1,,,continuous,continuous,Yes,FDR q-value < 0.05
+16,,,biomarker,leukocyte telomere length,leukocyte telomere length,biomarker,lung function,FEV1,,,continuous,continuous,No,FDR q-value < 0.05
+16,,,biomarker,mitochondrial DNA,mitochondrial DNA copy number,biomarker,lung function,FEV1,,,continuous,continuous,No,FDR q-value < 0.05
+16,,,biomarker,DNAmethylation,aging clocks,biomarker,lung function,MMEF,,,continuous,continuous,Yes,FDR q-value < 0.05
+16,,,biomarker,leukocyte telomere length,leukocyte telomere length,biomarker,lung function,MMEF,,,continuous,continuous,No,FDR q-value < 0.05
+16,,,biomarker,mitochondrial DNA,mitochondrial DNA copy number,biomarker,lung function,MMEF,,,continuous,continuous,No,FDR q-value < 0.05
+17,Nwanaji-Enwerem JC,2020,biomarker,urinary metals,urinary arsenic,biomarker,DNAmethylation,aging clocks,individual species and cumulative mixture relationships of 24-hour urine metal concentrations with DNA methylation age variables in older men,Environ Res,continuous,continuous,No,p-value < 0.05
+17,,,biomarker,urinary metals,urinary cadmium,biomarker,DNAmethylation,aging clocks,,,continuous,continuous,No,p-value < 0.05
+17,,,biomarker,urinary metals,urinary lead,biomarker,DNAmethylation,aging clocks,,,continuous,continuous,No,p-value < 0.05
+17,,,biomarker,urinary metals,urinary manganese,biomarker,DNAmethylation,aging clocks,,,continuous,continuous,Yes,p-value < 0.05
+17,,,biomarker,urinary metals,urinary mercury,biomarker,DNAmethylation,aging clocks,,,continuous,continuous,No,p-value < 0.05
+18,Vieira CLZ,2020,chemical,air pollution,particle radioactivity,biomarker,hemoglobin concentration,hemoglobin concentration,association between ambient beta particle radioactivity and lower hemoglobin concentrations in a cohort of elderly men,Environ Int,continuous,continuous,Yes,p-value < 0.05
+19,Wang C,2020,chemical,air pollution,long-term PM2.5 elemental components,biomarker,DNAmethylation,aging clocks,associations of annual ambient PM2.5 components with DNAm phenoage acceleration in elderly men: the Normative Aging Study,Environ Pollut,continuous,continuous,Yes,FDR q-value < 0.05
+19,,,chemical,air pollution,long-term PM2.5 mass,biomarker,DNAmethylation,aging clocks,,,continuous,continuous,No,FDR q-value < 0.05
+19,,,chemical,air pollution,long-term black carbon,biomarker,DNAmethylation,aging clocks,,,continuous,continuous,No,FDR q-value < 0.05
+19,,,chemical,air pollution,long-term sulfate,biomarker,DNAmethylation,aging clocks,,,continuous,continuous,No,FDR q-value < 0.05
+20,Wang X,2019,biomarker,bone lead,patella lead,biomarker,urinary metals,urinary lead,effect of dietary sodium and potassium intake on the mobilization of bone lead among middle-aged and older men: the veterans affairs Normative Aging Study,Nutrients,continuous,continuous,Yes,p-value < 0.05
+20,,,biomarker,bone lead,tibia lead,biomarker,urinary metals,urinary lead,,,continuous,continuous,No,p-value < 0.05
+20,,,biomarker,blood lead,blood lead,biomarker,urinary metals,urinary lead,,,continuous,continuous,No,p-value < 0.05
+21,Nwanaji-Enwerem JC,2019,chemical,air pollution,long-term black carbon,biomarker,intraocular pressure,intraocular pressure,association of long-term ambient black carbon exposure and oxidative stress allelic variants with intraocular pressure in older men,JAMA Ophthalmol,continuous,continuous,No,p-value < 0.05
+22,Ding N,2019,biomarker,bone lead,tibia lead,disease,cardiovascular disease,incident coronary heart disease,"dietary patterns, bone lead and incident coronary heart disease among middle-aged to elderly men",Environ Res,continuous,dichotomous,No,p-value < 0.05
+22,,,biomarker,bone lead,patella lead,disease,cardiovascular disease,incident coronary heart disease,,,continuous,dichotomous,No,p-value < 0.05
+23,Lee LO,2019,psychosocial,psychosocial stressors,psychosocial stressors,disease,mortality,mortality,the long arm of childhood experiences on longevity: testing midlife vulnerability and resilience pathways,Psychol Aging,nominal,dichotomous-time to event,No,p-value < 0.05
+23,,,psychosocial,family,childhood socioeconomic status,disease,mortality,mortality,,,ordinal,dichotomous-time to event,No,p-value < 0.05
+23,,,psychosocial,family,close relationships,disease,mortality,mortality,,,nominal,dichotomous-time to event,No,p-value < 0.05
+24,Gao X,2019,chemical,air pollution,particle radioactivity,biomarker,glomerular filtration rate,glomerular filtration rate,short-term ambient particle radioactivity level and renal function in older men: insight from the Normative Aging Study,Environ Int,continuous,continuous,Yes,p-value < 0.05
+24,,,chemical,air pollution,particle radioactivity,disease,incident chronic kidney disease,incident chronic kidney disease,,,continuous,dichotomous,Yes,p-value < 0.05
+25,Kim ES,2019,psychosocial,optimism,optimism,biomarker,DNAmethylation,aging clocks,optimism is not associated with two indicators of DNA methylation aging,Aging (Albany NY),continuous,continuous,No,p-value < 0.05
+26,Yang Y,2019,behavior,smoking,smoking,biomarker,DNAmethylation,aging clocks,smoking-related DNA methylation is associated with DNA methylation phenotypic age acceleration: the veterans affairs Normative Aging Study,Int J Environ Res Public Health,nominal,continuous,Yes,FDR q-value < 0.05
+27,Gao X,2019,chemical,air pollution,short-term PM2.5 mass,biomarker,leukocyte distribution,leukocyte distribution,"impacts of air pollution, temperature, and relative humidity on leukocyte distribution: an epigenetic perspective",Environ Int,continuous,continuous,Yes,p-value < 0.05
+27,,,chemical,air pollution,short-term PM2.5 elemental components,biomarker,leukocyte distribution,leukocyte distribution,,,continuous,continuous,Yes,p-value < 0.05
+27,,,chemical,air pollution,short-term particle number,biomarker,leukocyte distribution,leukocyte distribution,,,continuous,continuous,Yes,p-value < 0.05
+27,,,chemical,air pollution,short-term CO,biomarker,leukocyte distribution,leukocyte distribution,,,continuous,continuous,Yes,p-value < 0.05
+27,,,chemical,air pollution,short-term NO2,biomarker,leukocyte distribution,leukocyte distribution,,,continuous,continuous,Yes,p-value < 0.05
+27,,,chemical,air pollution,short-term ozone,biomarker,leukocyte distribution,leukocyte distribution,,,continuous,continuous,Yes,p-value < 0.05
+27,,,chemical,air pollution,short-term SO2,biomarker,leukocyte distribution,leukocyte distribution,,,continuous,continuous,Yes,p-value < 0.05
+27,,,chemical,air pollution,short-term black carbon,biomarker,leukocyte distribution,leukocyte distribution,,,continuous,continuous,Yes,p-value < 0.05
+28,Zheutlin AR,2018,biomarker,blood lead,blood lead,disease,resistant hypertension,resistant hypertension,low-level cumulative lead and resistant hypertension: a prospective study of men participating in the veterans affairs Normative Aging Study,J Am Heart Assoc,continuous,dichotomous,No,p-value ?0.05
+28,,,biomarker,bone lead,tibia lead,disease,resistant hypertension,resistant hypertension,,,continuous,dichotomous,Yes,p-value ?0.05
+28,,,biomarker,bone lead,patella lead,disease,resistant hypertension,resistant hypertension,,,continuous,dichotomous,No,p-value ?0.05
+29,Gao X,2018,behavior,drug use,antihypertensive medication,biomarker,DNAmethylation,aging clocks,accelerated DNA methylation age and the use of antihypertensive medication among older adults,Aging (Albany NY).,dichotomous,continuous,Yes,p-value < 0.05
+30,Carmona JJ,2018,biomarker,DNAmethylation,genes-450K,biomarker,lung function,FVC,metastable DNA methylation sites associated with longitudinal lung function decline and aging in humans: an epigenome-wide study in the nas and kora cohorts,Epigenetics,continuous,continuous,Yes,Holm adjusted p-value <0.05 or FDR q value <0.1
+30,,,biomarker,DNAmethylation,genes-450K,biomarker,lung function,FEV1,,,continuous,continuous,Yes,Holm adjusted p-value <0.05 or FDR q value <0.2
+30,,,biomarker,DNAmethylation,genes-450K,biomarker,lung function,FEF25%-75%,,,continuous,continuous,Yes,Holm adjusted p-value <0.05 or FDR q value <0.3
+31,Kresovich JK,2018,behavior,diet,manganese intake,biomarker,inflammation biomarkers,inflammation biomarkers,the inflammatory potential of dietary manganese in a cohort of elderly men,Biol Trace Elem Res,continuous,continuous,Yes,p-value < 0.05
+31,,,behavior,diet,manganese intake,biomarker,DNAmethylation,genes-selected,,,continuous,continuous,Yes,p-value < 0.05
+32,Huang S,2018,physical,road proximity,road proximity,chemical,air pollution,short-term PM2.5 mass,road proximity influences indoor exposures to ambient fine particle mass and components,Environ Pollut,continuous,continuous,Yes,p-value < 0.05
+32,,,physical,road proximity,road proximity,chemical,air pollution,short-term PM2.5 elemental components,,,continuous,continuous,Yes,p-value < 0.05
+33,Wang W,2018,biomarker,bone lead,tibia lead,disease,glaucoma,incident primary open-angle glaucoma,bone lead levels and risk of incident primary open-angle glaucoma: the VA Normative Aging Study,Environ Health Perspect,continuous,dichotomous-time to event,No,p-value < 0.05
+33,,,biomarker,bone lead,patella lead,disease,glaucoma,incident primary open-angle glaucoma,,,continuous,dichotomous-time to event,Yes,p-value < 0.05
+34,Ciesielski TH,2018,biomarker,genes,HFE gene,biomarker,toenail metals,toenail cadmium,"iron-processing genotypes, nutrient intakes, and cadmium levels in the Normative Aging Study: evidence of sensitive subpopulations in cadmium risk assessment",Environ Int,continuous,continuous,No,p-value < 0.05
+34,,,biomarker,genes,transferrin gene,biomarker,toenail metals,toenail cadmium,,,continuous,continuous,No,p-value < 0.05
+35,Joyce BT,2018,biomarker,DNAmethylation,genes-selected,disease,incident cancer,incident cancer,DNA methylation of telomere-related genes and cancer risk,Cancer Prev Res (Phila),continuous,dichotomous-time to event,Yes,FDR q-value < 0.05
+36,Kresovich JK,2018,biomarker,DNAmethylation,genes-selected,disease,incident cancer,incident cancer,promoter methylation of pgc1a and pgc1b predicts cancer incidence in a veteran cohort,Epigenomics,continuous,dichotomous-time to event,,p-value < 0.05
+36,,,biomarker,DNAmethylation,genes-selected,biomarker,leukocyte telomere length,leukocyte telomere length,,,continuous,continuous,Yes,p-value < 0.05
+36,,,biomarker,DNAmethylation,genes-selected,biomarker,mitochondrial DNA,mitochondrial DNA 8-OHdG lesions,,,continuous,continuous,No,p-value < 0.05
+36,,,biomarker,DNAmethylation,genes-selected,biomarker,mitochondrial DNA,mitochondrial DNA copy number,,,continuous,continuous,Yes,p-value < 0.05
+37,Lepeule J,2018,physical,temperature,short-term temperature-outdoor,biomarker,lung function,FVC,lung function association with outdoor temperature and relative humidity and its interaction with air pollution in the elderly,Environ Res,continuous,continuous,Yes,p-value < 0.05
+37,,,physical,relative humidity,short-term relative humidity,biomarker,lung function,FVC,,,continuous,continuous,Yes,p-value < 0.05
+37,,,physical,temperature,short-term temperature-outdoor,biomarker,lung function,FEV1,,,continuous,continuous,Yes,p-value < 0.05
+37,,,physical,relative humidity,short-term relative humidity,biomarker,lung function,FEV1,,,continuous,continuous,Yes,p-value < 0.05
+38,Joyce BT,2018,biomarker,DNAmethylation,genes-selected,disease,incident cancer,incident cancer,mirna-processing gene methylation and cancer risk,Cancer Epidemiol Biomarkers Prev,continuous,dichotomous-time to event,Yes,FDR q-value < 0.05
+39,Sahin-Efe A,2018,biomarker,hormone,irisin,disease,diabetes,type2 diabetes,"irisin and leptin concentrations in relation to obesity, and developing type 2 diabetes: a cross sectional and a prospective case-control study nested in the Normative Aging Study",Metabolism,continuous,continuous,No,p-value < 0.05
+39,,,biomarker,hormone,leptin,disease,diabetes,type2 diabetes,,,continuous,continuous,No,p-value < 0.05
+40,Peng C,2017,chemical,air pollution,long-term PM2.5 mass,biomarker,mitochondrial DNA,mitochondrial DNA copy number,associations of annual ambient fine particulate matter mass and components with mitochondrial DNA abundance,Epidemiology,continuous,continuous,No,p-value < 0.0001
+40,,,chemical,air pollution,long-term PM2.5 elemental components,biomarker,mitochondrial DNA,mitochondrial DNA copy number,,,continuous,continuous,No,p-value < 0.0001
+40,,,chemical,air pollution,long-term organic carbon,biomarker,mitochondrial DNA,mitochondrial DNA copy number,,,continuous,continuous,No,p-value < 0.0001
+40,,,chemical,air pollution,long-term sulfate,biomarker,mitochondrial DNA,mitochondrial DNA copy number,,,continuous,continuous,No,p-value < 0.0001
+40,,,chemical,air pollution,long-term nitrate,biomarker,mitochondrial DNA,mitochondrial DNA copy number,,,continuous,continuous,Yes,p-value < 0.0001
+41,Wang X,2017,behavior,diet,prudent diet ,biomarker,bone lead,tibia lead,a western diet pattern is associated with higher concentrations of blood and bone lead among middle-aged and elderly men,J Nutr,continuous,continuous,No,p-value < 0.05
+41,,,behavior,diet,prudent diet ,biomarker,bone lead,patella lead,,,continuous,continuous,No,p-value < 0.05
+41,,,behavior,diet,prudent diet ,biomarker,blood lead,blood lead,,,continuous,continuous,No,p-value < 0.05
+41,,,behavior,diet,western diet,biomarker,bone lead,tibia lead,,,continuous,continuous,Yes,p-value < 0.05
+41,,,behavior,diet,western diet,biomarker,bone lead,patella lead,,,continuous,continuous,Yes,p-value < 0.05
+41,,,behavior,diet,western diet,biomarker,blood lead,blood lead,,,continuous,continuous,Yes,p-value < 0.05
+42,Peng C,2017,physical,temperature,short-term temperature-outdoor,biomarker,mitochondrial DNA,mitochondrial DNA lesions,short-term effects of air temperature and mitochondrial DNA lesions within an older population,Environ Int,continuous,continuous,Yes,p-value < 0.05
+43,Nwanaji-Enwerem JC,2017,chemical,air pollution,long-term PM2.5 elemental components,biomarker,DNAmethylation,aging clocks,associations between long-term exposure to PM 2.5 component species and blood DNA methylation age in the elderly: the VA Normative Aging Study,Environ Int,continuous,continuous,No,p-value < 0.05
+43,,,chemical,air pollution,long-term ammonium,biomarker,DNAmethylation,aging clocks,,,continuous,continuous,Yes,p-value < 0.05
+43,,,chemical,air pollution,long-term organic carbon,biomarker,DNAmethylation,aging clocks,,,continuous,continuous,Yes,p-value < 0.05
+43,,,chemical,air pollution,long-term nitrate,biomarker,DNAmethylation,aging clocks,,,continuous,continuous,Yes,p-value < 0.05
+43,,,chemical,air pollution,long-term sulfate,biomarker,DNAmethylation,aging clocks,,,continuous,continuous,Yes,p-value < 0.05
+43,,,chemical,air pollution,long-term PM2.5 mass,biomarker,DNAmethylation,aging clocks,,,continuous,continuous,Yes,p-value < 0.05
+43,,,chemical,air pollution,long-term PM2.5 elemental components,biomarker,DNAmethylation,genes-selected,,,continuous,continuous,No,FDR q-value < 0.05
+43,,,chemical,air pollution,long-term ammonium,biomarker,DNAmethylation,genes-selected,,,continuous,continuous,Yes,FDR q-value < 0.05
+43,,,chemical,air pollution,long-term organic carbon,biomarker,DNAmethylation,genes-selected,,,continuous,continuous,No,FDR q-value < 0.05
+43,,,chemical,air pollution,long-term nitrate,biomarker,DNAmethylation,genes-selected,,,continuous,continuous,No,FDR q-value < 0.05
+43,,,chemical,air pollution,long-term sulfate,biomarker,DNAmethylation,genes-selected,,,continuous,continuous,No,FDR q-value < 0.05
+43,,,chemical,air pollution,long-term PM2.5 mass,biomarker,DNAmethylation,genes-selected,,,continuous,continuous,Yes,FDR q-value < 0.05
+44,Zanobetti A,2017,physical,temperature,spatial and temporal temperature variation,biomarker,incident abnormal cardiac conductivity,arrhythmia,fine-scale spatial and temporal variation in temperature and arrhythmia episodes in the VA Normative Aging Study,J Air Waste Manag Assoc,continuous,dichotomous,Yes,p-value < 0.05
+45,Dai L,2017,chemical,air pollution,long-term PM2.5 elemental components,biomarker,DNAmethylation,genes-450K,differential DNA methylation and PM 2.5 species in a 450k epigenome-wide association study,Epigenetics,continuous,continuous,Yes,"Bonferroni correction, p-value < 9.4E-9"
+46,Wallwork RS,2017,chemical,air pollution,long-term PM2.5 mass,biomarker,incident metabolic syndrome,incident metabolic syndrome,"ambient fine particulate matter, outdoor temperature, and risk of metabolic syndrome",Am J Epidemiol,continuous,dichotomous-time to event,Yes,p-value < 0.05
+46,,,physical,temperature,long-term temperature-outdoor,biomarker,incident metabolic syndrome,incident metabolic syndrome,,,continuous,dichotomous-time to event,No,p-value < 0.05
+46,,,chemical,air pollution,long-term PM2.5 mass,biomarker,metabolic syndrome components,metabolic syndrome components,,,continuous,dichotomous-time to event,Yes,p-value < 0.05
+46,,,physical,temperature,long-term temperature-outdoor,biomarker,metabolic syndrome components,metabolic syndrome components,,,continuous,dichotomous-time to event,Yes,p-value < 0.05
+47,Farooqui Z,2017,biomarker,bone lead,tibia lead,biomarker,cognitive function,MMSE score,"associations of cumulative pb exposure and longitudinal changes in mini-psychological factors status exam scores, global cognition and domains of cognition: the VA Normative Aging Study",Environ Res,continuous,continuous,Yes,"Bonferroni correction, p-value < 0.0028"
+47,,,biomarker,bone lead,patella lead,biomarker,cognitive function,MMSE score,,,continuous,continuous,Yes,"Bonferroni correction, p-value < 0.0028"
+47,,,biomarker,bone lead,tibia lead,biomarker,cognitive function,global cognitive score,,,continuous,continuous,No,"Bonferroni correction, p-value < 0.0028"
+47,,,biomarker,bone lead,patella lead,biomarker,cognitive function,global cognitive score,,,continuous,continuous,No,"Bonferroni correction, p-value < 0.0028"
+48,Nwanaji-Enwerem JC,2016,chemical,air pollution,long-term PM2.5 mass,biomarker,DNAmethylation,aging clocks,long-term ambient particle exposures and blood DNA methylation age: findings from the VA Normative Aging Study,Environ Epigenet,continuous,continuous,Yes,p-value < 0.05
+48,,,chemical,air pollution,long-term black carbon,biomarker,DNAmethylation,aging clocks,,,continuous,continuous,Yes,p-value < 0.05
+49,Peng C,2016,chemical,air pollution,short-term PM2.5 mass,biomarker,fasting blood glucose,fasting blood glucose,"particulate air pollution and fasting blood glucose in nondiabetic individuals: associations and epigenetic mediation in the Normative Aging Study, 2000-2011",Environ Health Perspect,continuous,continuous,Yes,p-value < 0.05
+49,,,chemical,air pollution,intermediate-term PM2.5 mass,biomarker,fasting blood glucose,fasting blood glucose,,,continuous,continuous,Yes,p-value < 0.05
+50,Dai L,2016,physical,temperature,short-term temperature-indoor,biomarker,cognitive function,MMSE score,cognitive function and short-term exposure to residential air temperature: a repeated measures study based on spatiotemporal estimates of temperature,Environ Res,continuous,continuous,Yes,p-value < 0.05
+51,Bind MC,2016,physical,temperature,intermediate-term temperature,biomarker,DNAmethylation,genes-selected,distributional changes in gene-specific methylation associated with temperature,Environ Res,continuous,continuous,Yes,p-value < 0.05
+52,Gao T,2016,biomarker,DNAmethylation,genes-selected,disease,incident cancer,incident cancer,DNA methylation of oxidative stress genes and cancer risk in the Normative Aging Study,Am J Cancer Res,continuous,dichotomous-time to event,Yes,p-value < 0.05
+53,Bind MA,2016,chemical,air pollution,intermediate-term PM2.5 mass,biomarker,blood pressure,systolic blood pressure,"quantile regression analysis of the distributional effects of air pollution on blood pressure, heart rate variability, blood lipids, and biomarkers of inflammation in elderly american men: the Normative Aging Study",Environ Health Perspect,continuous,continuous,Yes,p-value < 0.05
+53,,,chemical,air pollution,intermediate-term PM2.5 mass,biomarker,blood pressure,diastolic blood pressure,,,continuous,continuous,Yes,p-value < 0.05
+53,,,chemical,air pollution,intermediate-term PM2.5 mass,biomarker,electrocardiogram,heart rate variability markers,,,continuous,continuous,Yes,p-value < 0.05
+53,,,chemical,air pollution,intermediate-term PM2.5 mass,biomarker,electrocardiogram,QT interval,,,continuous,continuous,Yes,p-value < 0.05
+53,,,chemical,air pollution,intermediate-term PM2.5 mass,biomarker,lipid profile,lipid profile,,,continuous,continuous,Yes,p-value < 0.05
+53,,,chemical,air pollution,intermediate-term PM2.5 mass,biomarker,inflammation biomarkers,inflammation biomarkers,,,continuous,continuous,No,p-value < 0.05
+53,,,chemical,air pollution,intermediate-term particle number,biomarker,blood pressure,systolic blood pressure,,,continuous,continuous,Yes,p-value < 0.05
+53,,,chemical,air pollution,intermediate-term particle number,biomarker,blood pressure,diastolic blood pressure,,,continuous,continuous,Yes,p-value < 0.05
+53,,,chemical,air pollution,intermediate-term particle number,biomarker,electrocardiogram,heart rate variability markers,,,continuous,continuous,No,p-value < 0.05
+53,,,chemical,air pollution,intermediate-term particle number,biomarker,electrocardiogram,QT interval,,,continuous,continuous,Yes,p-value < 0.05
+53,,,chemical,air pollution,intermediate-term particle number,biomarker,lipid profile,lipid profile,,,continuous,continuous,Yes,p-value < 0.05
+53,,,chemical,air pollution,intermediate-term particle number,biomarker,inflammation biomarkers,inflammation biomarkers,,,continuous,continuous,No,p-value < 0.05
+53,,,chemical,air pollution,intermediate-term black carbon,biomarker,blood pressure,systolic blood pressure,,,continuous,continuous,Yes,p-value < 0.05
+53,,,chemical,air pollution,intermediate-term black carbon,biomarker,blood pressure,diastolic blood pressure,,,continuous,continuous,Yes,p-value < 0.05
+53,,,chemical,air pollution,intermediate-term black carbon,biomarker,electrocardiogram,heart rate variability markers,,,continuous,continuous,No,p-value < 0.05
+53,,,chemical,air pollution,intermediate-term black carbon,biomarker,electrocardiogram,QT interval,,,continuous,continuous,Yes,p-value < 0.05
+53,,,chemical,air pollution,intermediate-term black carbon,biomarker,lipid profile,lipid profile,,,continuous,continuous,Yes,p-value < 0.05
+53,,,chemical,air pollution,intermediate-term black carbon,biomarker,inflammation biomarkers,inflammation biomarkers,,,continuous,continuous,No,p-value < 0.05
+54,Rodosthenous RS,2016,chemical,air pollution,short-term PM2.5 mass,biomarker,microRNA,microRNA in extracellular vesicles,ambient particulate matter and micrornas in extracellular vesicles: a pilot study of older individuals,Part Fibre Toxicol,continuous,continuous,No,FDR q-value < 0.05
+54,,,chemical,air pollution,intermediate-term PM2.5 mass,biomarker,microRNA,microRNA in extracellular vesicles,,,continuous,continuous,Yes,FDR q-value < 0.05
+54,,,chemical,air pollution,long-term PM2.5 mass,biomarker,microRNA,microRNA in extracellular vesicles,,,continuous,continuous,Yes,FDR q-value < 0.05
+55,Mehta AJ,2016,chemical,air pollution,long-term PM2.5 mass,biomarker,glomerular filtration rate,glomerular filtration rate,long-term exposure to ambient fine particulate matter and renal function in older men: the veterans administration Normative Aging Study,Environ Health Perspect,continuous,continuous,Yes,p-value < 0.05
+56,Vivot A,2016,disease,diabetes,diabetes,biomarker,cognitive function,immediate recall,"jump, hop, or skip: modeling practice effects in studies of determinants of cognitive change in older adults",Am J Epidemiol,dichotomous,continuous,No,p-value < 0.05
+56,,,disease,diabetes,diabetes,biomarker,cognitive function,verbal fluency,,,dichotomous,continuous,No,p-value < 0.05
+56,,,psychosocial,depression,depression,biomarker,cognitive function,immediate recall,,,continuous,continuous,No,p-value < 0.05
+56,,,psychosocial,depression,depression,biomarker,cognitive function,verbal fluency,,,continuous,continuous,No,p-value < 0.05
+57,Mehta AJ,2016,behavior,diet,dietary flavonoids,biomarker,lung function,FEV1,dietary anthocyanin intake and age-related decline in lung function: longitudinal findings from the VA Normative Aging Study,Am J Clin Nutr.,continuous,continuous,Yes,p-value < 0.05
+57,,,behavior,diet,dietary flavonoids,biomarker,lung function,FVC,,,continuous,continuous,No,p-value < 0.05
+58,Kim D,2016,psychosocial,anxiety,anxiety,biomarker,DNAmethylation,genes-selected,psychological factors and DNA methylation of genes related to immune/inflammatory system markers: the VA Normative Aging Study,BMJ Open,continuous,continuous,Yes,p-value < 0.05
+58,,,psychosocial,depression,depression,biomarker,DNAmethylation,genes-selected,,,continuous,continuous,No,p-value < 0.05
+58,,,psychosocial,hostility,hostility,biomarker,DNAmethylation,genes-selected,,,continuous,continuous,Yes,p-value < 0.05
+58,,,psychosocial,happiness,happiness,biomarker,DNAmethylation,genes-selected,,,ordinal,continuous,Yes,p-value < 0.05
+58,,,psychosocial,life satisfaction,life satisfaction,biomarker,DNAmethylation,genes-selected,,,ordinal,continuous,Yes,p-value < 0.05
+59,Panni T,2016,chemical,air pollution,short-term PM2.5 mass,biomarker,DNAmethylation,genes-450K,"genome-wide analysis of DNA methylation and fine particulate matter air pollution in three study populations: kora f3, kora f4, and the Normative Aging Study",Environ Health Perspect.,continuous,continuous,Yes,"Bonferroni correction, p-value ? 7.5E-8"
+59,,,chemical,air pollution,intermediate-term PM2.5 mass,biomarker,DNAmethylation,genes-450K,,,continuous,continuous,Yes,"Bonferroni correction, p-value ? 7.5E-8"
+60,Colicino E,2016,biomarker,genes,genes-SNPs,biomarker,cognitive function,MMSE score,"long-term exposure to black carbon, cognition and single nucleotide polymorphisms in microrna processing genes in older men",Environ Int,continuous,continuous,No,FDR q-value < 0.15
+60,,,biomarker,genes,genes-SNPs,biomarker,cognitive function,global cognitive score,,,continuous,continuous,No,FDR q-value < 0.15
+60,,,chemical,air pollution,long-term black carbon,biomarker,cognitive function,MMSE score,,,continuous,continuous,No,FDR q-value < 0.15
+60,,,chemical,air pollution,long-term black carbon,biomarker,cognitive function,global cognitive score,,,continuous,continuous,No,FDR q-value < 0.15
+61,Jeong YJ,2016,psychosocial,hassles and uplifts,hassles and uplifts,disease,mortality,mortality,do hassles and uplifts trajectories predict mortality? longitudinal findings from the VA Normative Aging Study,J Behav Med,continuous,dichotomous-time to event,Yes,p-value < 0.05
+62,Ramsey J,2016,psychosocial,co-occurrence of affect,co-occurrence of affect,psychosocial,reactivity to health stressors,reactivity to health stressors,the effects of daily co-occurrence of affect on older adults' reactivity to health stressors,Psychol Health,continuous,continuous,No,p-value < 0.05
+63,Dai L,2016,chemical,air pollution,short-term PM2.5 elemental components,biomarker,blood pressure,systolic blood pressure,use of the adaptive lasso method to identify PM2.5 components associated with blood pressure in elderly men: the veterans affairs Normative Aging Study,Environ Health Perspect,continuous,continuous,Yes,p-value < 0.001
+63,,,chemical,air pollution,short-term PM2.5 elemental components,biomarker,blood pressure,diastolic blood pressure,,,continuous,continuous,Yes,p-value < 0.001
+64,Hanson C,2016,behavior,diet,vitamin E intake,biomarker,lung function,FEV1,serum tocopherol levels and vitamin e intake are associated with lung function in the Normative Aging Study,Clin Nutr,continuous,continuous,Yes,p-value < 0.05
+64,,,biomarker,tocopherol levels,serum tocopherol levels,biomarker,lung function,FEV1,,,continuous,continuous,Yes,p-value < 0.05
+64,,,behavior,diet,vitamin E intake,biomarker,lung function,FVC,,,continuous,continuous,Yes,p-value < 0.05
+64,,,biomarker,tocopherol levels,serum tocopherol levels,biomarker,lung function,FVC,,,continuous,continuous,Yes,p-value < 0.05
+65,Mordukhovich I,2015,chemical,air pollution,long-term PM2.5 mass,biomarker,electrocardiogram,heart rate variability markers,exposure to sub-chronic and long-term particulate air pollution and heart rate variability in an elderly cohort: the Normative Aging Study,Environ Health,continuous,continuous,No,p-value < 0.05
+65,,,chemical,air pollution,long-term black carbon,biomarker,electrocardiogram,heart rate variability markers,,,continuous,continuous,Yes,p-value < 0.05
+66,Lee LO,2015,psychosocial,family,early life experience-cherished/harshly disciplined/ordinary,psychosocial,psychological well-being,hedonic well-being,do cherished children age successfully? longitudinal findings from the veterans affairs Normative Aging Study,Psychol Aging,nominal,continuous,Yes,p-value < 0.05
+66,,,psychosocial,family,early life experience-cherished/harshly disciplined/ordinary,psychosocial,psychological well-being,eudaimonic well-being,,,nominal,continuous,Yes,p-value < 0.05
+67,Hou L,2015,biomarker,leukocyte telomere length,leukocyte telomere length,disease,incident cancer,incident cancer,blood telomere length attrition and cancer development in the Normative Aging Study cohort,EBioMedicine,continuous,dichotomous-time to event,Yes,p-value < 0.05
+68,Joyce BT,2015,biomarker,DNAmethylation,genes-selected,disease,incident cancer,incident cancer,longitudinal study of DNA methylation of inflammatory genes and cancer risk,Cancer Epidemiol Biomarkers Prev,continuous,dichotomous-time to event,Yes,p-value ?0.05
+69,Grashow R,2015,biomarker,bone lead,tibia lead,biomarker,olfactory recognition,olfactory recognition,cumulative lead exposure is associated with reduced olfactory recognition performance in elderly men: the Normative Aging Study,Neurotoxicology,continuous,continuous,Yes,p-value < 0.05
+69,,,biomarker,bone lead,patella lead,biomarker,olfactory recognition,olfactory recognition,,,continuous,continuous,Yes,p-value < 0.05
+70,Nath R,2015,biomarker,cholesterol level,total cholesterol,psychosocial,depression,depression,cholesterol and depressive symptoms in older men across time,Health Psychol Open,continuous,continuous,Yes,p-value < 0.05
+71,Mroczek DK,2015,psychosocial,emotional reactivity,emotional reactivity,disease,mortality,mortality,emotional reactivity and mortality: longitudinal findings from the VA Normative Aging Study,J Gerontol B Psychol Sci Soc Sci,continuous,dichotomous-time to event,Yes,p-value < 0.05
+72,Bind MA,2015,chemical,air pollution,intermediate-term PM2.5 mass,biomarker,DNAmethylation,genes-selected,beyond the mean: quantile regression to explore the association of air pollution with gene-specific methylation in the Normative Aging Study,Environ Health Perspect,continuous,continuous,Yes,p-value < 0.05
+72,,,chemical,air pollution,intermediate-term particle number,biomarker,DNAmethylation,genes-selected,,,continuous,continuous,Yes,p-value < 0.05
+72,,,chemical,air pollution,intermediate-term black carbon,biomarker,DNAmethylation,genes-selected,,,continuous,continuous,Yes,p-value < 0.05
+73,Aronis KN,2015,biomarker,hormone,irisin,disease,cardiovascular disease,acute coronary syndromes,circulating irisin levels and coronary heart disease: association with future acute coronary syndrome and major adverse cardiovascular events,Int J Obes (Lond),continuous,dichotomous,No,p-value < 0.05
+74,Ji JS,2015,biomarker,bone lead,tibia lead,disease,tremor,tremor,lead exposure and tremor among older men: the VA Normative Aging Study,Environ Health Perspect,continuous,continuous,No,p-value < 0.05
+74,,,biomarker,bone lead,patella lead,disease,tremor,tremor,,,continuous,continuous,No,p-value < 0.05
+74,,,biomarker,blood lead,blood lead,disease,tremor,tremor,,,continuous,continuous,Yes,p-value < 0.05
+75,Mehta AJ,2015,chemical,air pollution,short-term PM2.5 mass,psychosocial,perceived stress,perceived stress,associations between air pollution and perceived stress: the veterans administration Normative Aging Study,Environ Health,continuous,continuous,Yes,p-value < 0.05
+75,,,chemical,air pollution,short-term black carbon,psychosocial,perceived stress,perceived stress,,,continuous,continuous,Yes,p-value < 0.05
+75,,,chemical,air pollution,short-term particle number,psychosocial,perceived stress,perceived stress,,,continuous,continuous,Yes,p-value < 0.05
+75,,,chemical,air pollution,short-term NO2,psychosocial,perceived stress,perceived stress,,,continuous,continuous,Yes,p-value < 0.05
+75,,,chemical,air pollution,intermediate-term PM2.5 mass,psychosocial,perceived stress,perceived stress,,,continuous,continuous,Yes,p-value < 0.05
+75,,,chemical,air pollution,intermediate-term black carbon,psychosocial,perceived stress,perceived stress,,,continuous,continuous,Yes,p-value < 0.05
+75,,,chemical,air pollution,intermediate-term NO2,psychosocial,perceived stress,perceived stress,,,continuous,continuous,Yes,p-value < 0.05
+75,,,chemical,air pollution,intermediate-term particle number,psychosocial,perceived stress,perceived stress,,,continuous,continuous,Yes,p-value < 0.05
+76,Mehta AJ,2014,physical,temperature,short-term temperature,biomarker,electrocardiogram,QT interval,associations between changes in city and address specific temperature and qt interval--the VA Normative Aging Study,PLoS One,continuous,continuous,No,p-value ?0.05
+76,,,physical,temperature,short-term temperature standardad deviation,biomarker,electrocardiogram,QT interval,,,continuous,continuous,Yes,p-value ?0.05
+76,,,physical,temperature,intermediate-term temperature,biomarker,electrocardiogram,QT interval,,,continuous,continuous,Yes,p-value ?0.05
+76,,,physical,temperature,intermediate-term temperature standardad deviation,biomarker,electrocardiogram,QT interval,,,continuous,continuous,Yes,p-value ?0.05
+77,Prada D,2014,biomarker,genes,APOE genetic variants,biomarker,cognitive function,MMSE score,influence of multiple APOE genetic variants on cognitive function in a cohort of older men - results from the Normative Aging Study,BMC Psychiatry,continuous,continuous,Yes,p-value ?0.05
+78,Lepeule J,2014,chemical,air pollution,long-term black carbon,biomarker,lung function,FVC,long-term effects of traffic particles on lung function decline in the elderly,Am J Respir Crit Care Med,continuous,continuous,Yes,p-value < 0.05
+78,,,chemical,air pollution,long-term black carbon,biomarker,lung function,FEV1,,,continuous,continuous,Yes,p-value < 0.05
+79,Bakulski KM,2014,biomarker,bone lead,tibia lead,biomarker,plasma homocysteine,plasma homocysteine,"lead exposure, b vitamins, and plasma homocysteine in men 55 years of age and older: the VA Normative Aging Study",Environ Health Perspect,continuous,continuous,Yes,p-value < 0.05
+79,,,biomarker,bone lead,patella lead,biomarker,plasma homocysteine,plasma homocysteine,,,continuous,continuous,Yes,p-value < 0.05
+79,,,biomarker,blood lead,blood lead,biomarker,plasma homocysteine,plasma homocysteine,,,continuous,continuous,Yes,p-value < 0.05
+80,Bind MA,2014,physical,temperature,short-term temperature,biomarker,DNAmethylation,genes-selected,effects of temperature and relative humidity on DNA methylation,Epidemiology,continuous,continuous,Yes,p-value < 0.05
+80,,,physical,temperature,intermediate-term temperature,biomarker,DNAmethylation,genes-selected,,,continuous,continuous,Yes,p-value < 0.05
+80,,,physical,relative humidity,short-term relative humidity,biomarker,DNAmethylation,genes-selected,,,continuous,continuous,Yes,p-value < 0.05
+80,,,physical,relative humidity,intermediate-term relative humidity,biomarker,DNAmethylation,genes-selected,,,continuous,continuous,Yes,p-value < 0.05
+81,Ji JS,2014,physical,occupation,job categories,biomarker,bone lead,tibia lead,occupational determinants of cumulative lead exposure: analysis of bone lead among men in the VA Normative Aging Study,J Occup Environ Med,nominal,continuous,Yes,p-value < 0.001
+81,,,physical,occupation,job categories,biomarker,bone lead,patella lead,,,nominal,continuous,Yes,p-value < 0.001
+82,Aronis KN,2014,biomarker,hormone,chemerin,disease,cardiovascular disease,acute coronary syndromes,chemerin levels as predictor of acute coronary events: a case-control study nested within the veterans affairs Normative Aging Study,Metabolism,continuous,dichotomous,No,p-value < 0.05
+83,Ikeda A,2014,psychosocial,pessimism,pessimism,biomarker,leukocyte telomere length,leukocyte telomere length,pessimistic orientation in relation to telomere length in older men: the VA Normative Aging Study,Psychoneuroendocrinology,continuous,continuous,Yes,p-value < 0.05
+83,,,psychosocial,pessimism,pessimism,biomarker,leukocyte telomere length change rate,leukocyte telomere length change rate,,,continuous,continuous,No,p-value < 0.05
+83,,,psychosocial,optimism,optimism,biomarker,leukocyte telomere length,leukocyte telomere length,,,continuous,continuous,No,p-value < 0.05
+83,,,psychosocial,optimism,optimism,biomarker,leukocyte telomere length change rate,leukocyte telomere length change rate,,,continuous,continuous,No,p-value < 0.05
+84,Bind MA,2014,chemical,air pollution,intermediate-term particle number,biomarker,DNAmethylation,genes-selected,"air pollution and gene-specific methylation in the Normative Aging Study: association, effect modification, and mediation analysis",Epigenetics,continuous,continuous,No,p-value < 0.05
+84,,,chemical,air pollution,intermediate-term black carbon,biomarker,DNAmethylation,genes-selected,,,continuous,continuous,Yes,p-value < 0.05
+84,,,chemical,air pollution,intermediate-term sulfate,biomarker,DNAmethylation,genes-selected,,,continuous,continuous,No,p-value < 0.05
+84,,,chemical,air pollution,intermediate-term ozone,biomarker,DNAmethylation,genes-selected,,,continuous,continuous,Yes,p-value < 0.05
+84,,,chemical,air pollution,short-term particle number,biomarker,DNAmethylation,genes-selected,,,continuous,continuous,No,p-value < 0.05
+84,,,chemical,air pollution,short-term black carbon,biomarker,DNAmethylation,genes-selected,,,continuous,continuous,Yes,p-value < 0.05
+84,,,chemical,air pollution,short-term sulfate,biomarker,DNAmethylation,genes-selected,,,continuous,continuous,No,p-value < 0.05
+84,,,chemical,air pollution,short-term ozone,biomarker,DNAmethylation,genes-selected,,,continuous,continuous,Yes,p-value < 0.05
+85,Fossati S,2014,chemical,air pollution,short-term PM2.5 mass,biomarker,microRNA,microRNA in blood leukocytes,ambient particulate air pollution and micrornas in elderly men,Epidemiology,continuous,continuous,Yes,p-value < 0.05
+85,,,chemical,air pollution,short-term black carbon,biomarker,microRNA,microRNA in blood leukocytes,,,continuous,continuous,Yes,p-value < 0.05
+85,,,chemical,air pollution,short-term organic carbon,biomarker,microRNA,microRNA in blood leukocytes,,,continuous,continuous,Yes,p-value < 0.05
+85,,,chemical,air pollution,short-term sulfate,biomarker,microRNA,microRNA in blood leukocytes,,,continuous,continuous,Yes,p-value < 0.05
+85,,,chemical,air pollution,intermediate-term PM2.5 mass,biomarker,microRNA,microRNA in blood leukocytes,,,continuous,continuous,Yes,p-value < 0.05
+85,,,chemical,air pollution,intermediate-term black carbon,biomarker,microRNA,microRNA in blood leukocytes,,,continuous,continuous,Yes,p-value < 0.05
+85,,,chemical,air pollution,intermediate-term organic carbon,biomarker,microRNA,microRNA in blood leukocytes,,,continuous,continuous,Yes,p-value < 0.05
+85,,,chemical,air pollution,intermediate-term sulfate,biomarker,microRNA,microRNA in blood leukocytes,,,continuous,continuous,Yes,p-value < 0.05
+86,Mehta AJ,2014,chemical,air pollution,short-term PM2.5 mass,biomarker,arterial stiffness,augmentation index,"associations between short-term changes in air pollution and correlates of arterial stiffness: the veterans affairs Normative Aging Study, 2007-2011",Am J Epidemiol,continuous,continuous,Yes,p-value < 0.05
+86,,,chemical,air pollution,short-term particle number,biomarker,arterial stiffness,augmentation index,,,continuous,continuous,Yes,p-value < 0.05
+86,,,chemical,air pollution,short-term black carbon,biomarker,arterial stiffness,augmentation index,,,continuous,continuous,No,p-value < 0.05
+86,,,chemical,air pollution,short-term sulfate,biomarker,arterial stiffness,augmentation index,,,continuous,continuous,Yes,p-value < 0.05
+86,,,chemical,air pollution,short-term PM2.5 mass,biomarker,arterial stiffness,augmentation pressure,,,continuous,continuous,Yes,p-value < 0.05
+86,,,chemical,air pollution,short-term particle number,biomarker,arterial stiffness,augmentation pressure,,,continuous,continuous,Yes,p-value < 0.05
+86,,,chemical,air pollution,short-term black carbon,biomarker,arterial stiffness,augmentation pressure,,,continuous,continuous,No,p-value < 0.05
+86,,,chemical,air pollution,short-term sulfate,biomarker,arterial stiffness,augmentation pressure,,,continuous,continuous,Yes,p-value < 0.05
+87,Zanobetti A,2014,chemical,air pollution,short-term PM2.5 mass,biomarker,incident abnormal cardiac conductivity,arrhythmia,associations between arrhythmia episodes and temporally and spatially resolved black carbon and particulate matter in elderly patients,Occup Environ Med,continuous,dichotomous,Yes,p-value < 0.05
+87,,,chemical,air pollution,short-term black carbon,biomarker,incident abnormal cardiac conductivity,arrhythmia,,,continuous,dichotomous,Yes,p-value < 0.05
+88,Sipira AP,2013,behavior,sleep,sleep,biomarker,alzheimer disease biomarkers,beta-amyloid,self-reported sleep and beta-amyloid deposition in community-dwelling older adults,JAMA Neurol,continuous,continuous,Yes,p-value < 0.05
+89,Power MC,2013,disease,hypertension,duration of hypertension,biomarker,cognitive function,cognitive test z-score,blood pressure and cognition:factors that may account for their inconsistent association,Epidemiology,continuous,continuous,Yes,p-value < 0.05
+89,,,disease,hypertension,incidence hypertension,biomarker,cognitive function,cognitive test z-score,,,dichotomous,continuous,Yes,p-value < 0.05
+89,,,biomarker,biological aging,biological aging,biomarker,cognitive function,cognitive test z-score,,,continuous,continuous,No,p-value < 0.05
+90,Sordillo JE,2013,disease,asthma,asthma,biomarker,DNAmethylation,genes-selected,allergen sensitization is associated with increased DNA methylation in older men,Int Arch Allergy Immunol,dichotomous,continuous,Yes,p-value < 0.05
+90,,,disease,allergic phenotypes,allergic phenotypes,biomarker,DNAmethylation,genes-selected,,,nominal,continuous,Yes,p-value < 0.05
+91,Baja ES,2013,chemical,air pollution,short-term CO,biomarker,electrocardiogram,heart rate variability markers,structural equation modeling of parasympathetic and sympathetic response to traffic air pollution in a repeated measures study,Environ Health,continuous,continuous,No,p-value < 0.05
+91,,,chemical,air pollution,short-term NO,biomarker,electrocardiogram,heart rate variability markers,,,continuous,continuous,No,p-value < 0.05
+91,,,chemical,air pollution,short-term NO2,biomarker,electrocardiogram,heart rate variability markers,,,continuous,continuous,No,p-value < 0.05
+91,,,chemical,air pollution,short-term black carbon,biomarker,electrocardiogram,heart rate variability markers,,,continuous,continuous,Yes,p-value < 0.05
+92,Wilker EH,2013,chemical,air pollution,long-term black carbon,biomarker,intima-media thickness of the common carotid artery,intima-media thickness of the common carotid artery,long-term exposure to black carbon and carotid intima-media thickness: the Normative Aging Study,Environ Health Perspect,continuous,continuous,Yes,p-value < 0.05
+93,Grashow R,2013,biomarker,bone lead,tibia lead,biomarker,neural plasticity,acoustic startle reflex,lead exposure and fear-potentiated startle in the VA Normative Aging Study: a pilot study of a novel physiological approach to investigating neurotoxicant effects,Neurotoxicol Teratol,continuous,continuous,No,p-value < 0.05
+93,,,biomarker,bone lead,patella lead,biomarker,neural plasticity,acoustic startle reflex,,,continuous,continuous,Yes,p-value < 0.05
+94,Sofer T,2013,chemical,air pollution,intermediate-term black carbon,biomarker,DNAmethylation,genes-selected,exposure to airborne particulate matter is associated with methylation pattern in the asthma pathway,Epigenomics,continuous,continuous,Yes,p-value < 0.05
+94,,,chemical,air pollution,intermediate-term sulfate,biomarker,DNAmethylation,genes-selected,,,continuous,continuous,Yes,p-value < 0.05
+95,Alexeeff SE,2013,biomarker,DNAmethylation,genes-selected,biomarker,blood pressure,diastolic blood pressure,association between blood pressure and DNA methylation of retrotransposons and pro-inflammatory genes,Int J Epidemiol,continuous,continuous,Yes,p-value < 0.05
+95,,,biomarker,DNAmethylation,genes-selected,biomarker,blood pressure,systolic blood pressure,,,continuous,continuous,Yes,p-value < 0.05
+96,Grashow R,2013,biomarker,bone lead,tibia lead,biomarker,fine motor function,grooved pegboard manual dexterity task,cumulative lead exposure in community-dwelling adults and fine motor function: comparing standard and novel tasks in the VA Normative Aging Study,Neurotoxicology,continuous,continuous,Yes,p-value < 0.05
+96,,,biomarker,bone lead,patella lead,biomarker,fine motor function,grooved pegboard manual dexterity task,,,continuous,continuous,Yes,p-value < 0.05
+96,,,biomarker,bone lead,tibia lead,biomarker,fine motor function,handwriting tasks,,,continuous,continuous,Yes,p-value < 0.05
+96,,,biomarker,bone lead,patella lead,biomarker,fine motor function,handwriting tasks,,,continuous,continuous,No,p-value < 0.05
+97,Baja ES,2013,chemical,air pollution,short-term black carbon,biomarker,inflammation biomarkers,inflammation biomarkers,structural equation modeling of the inflammatory response to traffic air pollution,J Expo Sci Environ Epidemiol,continuous,continuous,Yes,p-value < 0.05
+97,,,chemical,air pollution,short-term CO,biomarker,inflammation biomarkers,inflammation biomarkers,,,continuous,continuous,Yes,p-value < 0.05
+97,,,chemical,air pollution,short-term NO,biomarker,inflammation biomarkers,inflammation biomarkers,,,continuous,continuous,Yes,p-value < 0.05
+97,,,chemical,air pollution,short-term NO2,biomarker,inflammation biomarkers,inflammation biomarkers,,,continuous,continuous,Yes,p-value < 0.05
+97,,,chemical,air pollution,intermediate-term black carbon,biomarker,inflammation biomarkers,inflammation biomarkers,,,continuous,continuous,Yes,p-value < 0.05
+97,,,chemical,air pollution,intermediate-term CO,biomarker,inflammation biomarkers,inflammation biomarkers,,,continuous,continuous,Yes,p-value < 0.05
+97,,,chemical,air pollution,intermediate-term NO,biomarker,inflammation biomarkers,inflammation biomarkers,,,continuous,continuous,Yes,p-value < 0.05
+97,,,chemical,air pollution,intermediate-term NO2,biomarker,inflammation biomarkers,inflammation biomarkers,,,continuous,continuous,Yes,p-value < 0.05
+98,Lange NE,2012,biomarker,DNAmethylation,genes-selected,biomarker,lung function,FEV1,alu and line-1 methylation and lung function in the normative ageing study,BMJ Open,continuous,continuous,Yes,p-value < 0.05
+98,,,biomarker,DNAmethylation,genes-selected,biomarker,lung function,FVC,,,continuous,continuous,Yes,p-value < 0.05
+98,,,biomarker,DNAmethylation,genes-selected,biomarker,lung function,FEV1/FVC,,,continuous,continuous,No,p-value < 0.05
+99,Lambrou A,2012,biomarker,toenail metals,toenail arsenic,biomarker,DNAmethylation,genes-selected,arsenic exposure and DNA methylation among elderly men,Epidemiology,continuous,continuous,Yes,p-value < 0.05
+100,Wernimont SM,2012,biomarker,genes,folate-related genes,disease,cardiovascular disease,incident cardiovascular disease,folate network genetic variation predicts cardiovascular disease risk in non-hispanic white males,J Nutr,continuous,dichotomous-time to event,Yes,p-value < 0.005
+101,Lepeule J,2012,biomarker,DNAmethylation,genes-selected,biomarker,lung function,FVC,gene promoter methylation is associated with lung function in the elderly: the Normative Aging Study,Epigenetics,continuous,continuous,Yes,p-value ?0.05
+101,,,biomarker,DNAmethylation,genes-selected,biomarker,lung function,FEV1,,,continuous,continuous,Yes,p-value ?0.05
+102,Rahilly-Tierney C,2012,behavior,alcohol,alcohol,biomarker,cholesterol level,high-density lipoprotein cholesterol,lifestyle change and high-density lipoprotein change: the us department of veterans affairs Normative Aging Study,Clin Cardiol,dichotomous,continuous,Yes,p-value < 0.05
+102,,,behavior,smoking,smoking,biomarker,cholesterol level,high-density lipoprotein cholesterol,,,nominal,continuous,Yes,p-value < 0.05
+102,,,biomarker,BMI,BMI,biomarker,cholesterol level,high-density lipoprotein cholesterol,,,continuous,continuous,Yes,p-value < 0.05
+103,Schwartz J,2012,chemical,air pollution,long-term black carbon,biomarker,blood pressure,systolic blood pressure,association between long-term exposure to traffic particles and blood pressure in the veterans administration Normative Aging Study,Occup Environ Med,continuous,continuous,Yes,p-value < 0.05
+103,,,chemical,air pollution,long-term black carbon,biomarker,blood pressure,diastolic blood pressure,,,continuous,continuous,Yes,p-value < 0.05
+104,Fang SC,2012,chemical,air pollution,intermediate-term black carbon,biomarker,inflammation biomarkers,inflammation biomarkers,residential black carbon exposure and circulating markers of systemic inflammation in elderly males: the Normative Aging Study,Environ Health Perspect,continuous,continuous,Yes,p-value < 0.05
+105,Schwartz N,2012,behavior,diet,fiber content,disease,periodontal disease progression,periodontal disease progression,high-fiber foods reduce periodontal disease progression in men aged 65 and older: the veterans affairs Normative Aging Study/dental longitudinal study,J Am Geriatr Soc,dichotomous,dichotomos,Yes,p-value < 0.05
+106,Turiano NA,2012,psychosocial,openness to experiences,openness to experiences,disease,mortality,mortality,openness to experience and mortality in men: analysis of trait and facets,J Aging Health,continuous,dichotomous-time to event,Yes,p-value < 0.05
+107,Madrigano J,2012,biomarker,biological aging,biological aging,biomarker,DNAmethylation,genes-selected,aging and epigenetics: longitudinal changes in gene-specific DNA methylation,Epigenetics,continuous,dichotomos,Yes,p-value < 0.05
+108,Peters JL,2012,biomarker,bone lead,tibia lead,biomarker,lipid profile,lipid profile,lead concentrations in relation to multiple biomarkers of cardiovascular disease: the Normative Aging Study,Environ Health Perspect,continuous,continuous,No,p-value < 0.05
+108,,,biomarker,bone lead,tibia lead,biomarker,inflammation biomarkers,inflammation biomarkers,,,continuous,continuous,No,p-value < 0.05
+108,,,biomarker,bone lead,patella lead,biomarker,lipid profile,lipid profile,,,continuous,continuous,Yes,p-value < 0.05
+108,,,biomarker,bone lead,patella lead,biomarker,inflammation biomarkers,inflammation biomarkers,,,continuous,continuous,No,p-value < 0.05
+108,,,biomarker,blood lead,blood lead,biomarker,lipid profile,lipid profile,,,continuous,continuous,Yes,p-value < 0.05
+108,,,biomarker,blood lead,blood lead,biomarker,inflammation biomarkers,inflammation biomarkers,,,continuous,continuous,Yes,p-value < 0.05
+109,Kaye EK,2016,biomarker,metabolic syndrome component,metabolic syndrome component,disease,periodontal disease progression,periodontal disease progression,metabolic syndrome and periodontal disease progression in men,J Dent Res,dichotomous,nominal,Yes,p-value < 0.05
+109,,,biomarker,metabolic syndrome component,metabolic syndrome component,disease,tooth loss,tooth loss,,,dichotomous,dichotomous-time to event,Yes,p-value < 0.05
+110,Mordukhovich I,2012,biomarker,toenail metals,toenail arsenic,biomarker,blood pressure,systolic blood pressure,"associations of toenail arsenic, cadmium, mercury, manganese, and lead with blood pressure in the Normative Aging Study",Environ Health Perspect,continuous,continuous,Yes,p-value < 0.05
+110,,,biomarker,toenail metals,toenail manganese,biomarker,blood pressure,systolic blood pressure,,,continuous,continuous,Yes,p-value < 0.05
+110,,,biomarker,toenail metals,toenail cadmium,biomarker,blood pressure,systolic blood pressure,,,continuous,continuous,No,p-value < 0.05
+110,,,biomarker,toenail metals,toenail mercury,biomarker,blood pressure,systolic blood pressure,,,continuous,continuous,No,p-value < 0.05
+110,,,biomarker,toenail metals,toenail lead,biomarker,blood pressure,systolic blood pressure,,,continuous,continuous,No,p-value < 0.05
+110,,,biomarker,toenail metals,toenail arsenic,biomarker,blood pressure,diastolic blood pressure,,,continuous,continuous,Yes,p-value < 0.05
+110,,,biomarker,toenail metals,toenail manganese,biomarker,blood pressure,diastolic blood pressure,,,continuous,continuous,Yes,p-value < 0.05
+110,,,biomarker,toenail metals,toenail cadmium,biomarker,blood pressure,diastolic blood pressure,,,continuous,continuous,No,p-value < 0.05
+110,,,biomarker,toenail metals,toenail mercury,biomarker,blood pressure,diastolic blood pressure,,,continuous,continuous,No,p-value < 0.05
+110,,,biomarker,toenail metals,toenail lead,biomarker,blood pressure,diastolic blood pressure,,,continuous,continuous,No,p-value < 0.05
+111,Aldwin CM,2011,psychosocial,stressful life events,stressful life events,disease,mortality,mortality,do stress trajectories predict mortality in older men? longitudinal findings from the VA Normative Aging Study,J Aging Res,continuous,dichotomous-time to event,Yes,p-value < 0.05
+112,Ikeda A,2011,psychosocial,optimism,optimism,biomarker,inflammation biomarkers,inflammation biomarkers,optimism in relation to inflammation and endothelial dysfunction in older men: the VA Normative Aging Study,Psychosom Med,continuous,continuous,Yes,p-value < 0.05
+112,,,psychosocial,optimism,optimism,biomarker,endothelial dysfunction markers,endothelial dysfunction markers,,,continuous,continuous,Yes,p-value < 0.05
+113,Wilker EH,2011,chemical,air pollution,short-term PM2.5 mass,biomarker,inflammation biomarkers,inflammation biomarkers,"ambient pollutants, polymorphisms associated with microrna processing and adhesion molecules: the Normative Aging Study",Environ Health,continuous,continuous,Yes,p-value < 0.05
+113,,,chemical,air pollution,short-term black carbon,biomarker,inflammation biomarkers,inflammation biomarkers,,,continuous,continuous,No,p-value < 0.05
+113,,,chemical,air pollution,short-term sulfate,biomarker,inflammation biomarkers,inflammation biomarkers,,,continuous,continuous,Yes,p-value < 0.05
+114,Kubzansky LD,2011,psychosocial,self-regulation,self-regulation,disease,cardiovascular disease,incident coronary heart disease,healthy psychological functioning and incident coronary heart disease: the importance of self-regulation,Arch Gen Psychiatry,continuous,dichotomous-time to event,Yes,p-value < 0.05
+115,Eum KD,2011,biomarker,bone lead,tibia lead,biomarker,electrocardiogram,QT interval,prospective cohort study of lead exposure and electrocardiographic conduction disturbances in the department of veterans affairs Normative Aging Study,Environ Health Perspect,continuous,continuous,Yes,p-value < 0.05
+115,,,biomarker,bone lead,tibia lead,biomarker,electrocardiogram,QRS duration,,,continuous,continuous,Yes,p-value < 0.05
+115,,,biomarker,bone lead,tibia lead,biomarker,electrocardiogram,JT interval,,,continuous,continuous,No,p-value < 0.05
+115,,,biomarker,bone lead,tibia lead,biomarker,incident abnormal cardiac conductivity,QT prolongation,,,continuous,dichotomous,Yes,p-value < 0.05
+115,,,biomarker,bone lead,tibia lead,biomarker,incident abnormal cardiac conductivity,JT prolongation,,,continuous,dichotomous,Yes,p-value < 0.05
+115,,,biomarker,bone lead,tibia lead,biomarker,incident abnormal cardiac conductivity,IVCD,,,continuous,nominal,No,p-value < 0.05
+115,,,biomarker,bone lead,tibia lead,biomarker,incident abnormal cardiac conductivity,AVCD,,,continuous,nominal,Yes,p-value < 0.05
+115,,,biomarker,bone lead,tibia lead,biomarker,incident abnormal cardiac conductivity,arrhythmia,,,continuous,nominal,No,p-value < 0.05
+115,,,biomarker,bone lead,patella lead,biomarker,electrocardiogram,QT interval,,,continuous,continuous,No,p-value < 0.05
+115,,,biomarker,bone lead,patella lead,biomarker,electrocardiogram,QRS duration,,,continuous,continuous,No,p-value < 0.05
+115,,,biomarker,bone lead,patella lead,biomarker,electrocardiogram,JT interval,,,continuous,continuous,No,p-value < 0.05
+115,,,biomarker,bone lead,patella lead,biomarker,incident abnormal cardiac conductivity,QT prolongation,,,continuous,dichotomous,No,p-value < 0.05
+115,,,biomarker,bone lead,patella lead,biomarker,incident abnormal cardiac conductivity,JT prolongation,,,continuous,dichotomous,No,p-value < 0.05
+115,,,biomarker,bone lead,patella lead,biomarker,incident abnormal cardiac conductivity,IVCD,,,continuous,nominal,No,p-value < 0.05
+115,,,biomarker,bone lead,patella lead,biomarker,incident abnormal cardiac conductivity,AVCD,,,continuous,nominal,Yes,p-value < 0.05
+115,,,biomarker,bone lead,patella lead,biomarker,incident abnormal cardiac conductivity,arrhythmia,,,continuous,nominal,No,p-value < 0.05
+115,,,biomarker,blood lead,blood lead,biomarker,electrocardiogram,QT interval,,,continuous,continuous,No,p-value < 0.05
+115,,,biomarker,blood lead,blood lead,biomarker,electrocardiogram,QRS duration,,,continuous,continuous,No,p-value < 0.05
+115,,,biomarker,blood lead,blood lead,biomarker,electrocardiogram,JT interval,,,continuous,continuous,No,p-value < 0.05
+115,,,biomarker,blood lead,blood lead,biomarker,incident abnormal cardiac conductivity,QT prolongation,,,continuous,dichotomous,No,p-value < 0.05
+115,,,biomarker,blood lead,blood lead,biomarker,incident abnormal cardiac conductivity,JT prolongation,,,continuous,dichotomous,No,p-value < 0.05
+115,,,biomarker,blood lead,blood lead,biomarker,incident abnormal cardiac conductivity,IVCD,,,continuous,nominal,No,p-value < 0.05
+115,,,biomarker,blood lead,blood lead,biomarker,incident abnormal cardiac conductivity,AVCD,,,continuous,nominal,No,p-value < 0.05
+115,,,biomarker,blood lead,blood lead,biomarker,incident abnormal cardiac conductivity,arrhythmia,,,continuous,nominal,No,p-value < 0.05
+116,Madrigano J,2011,chemical,air pollution,intermediate-term PM2.5 mass,biomarker,DNAmethylation,genes-selected,"prolonged exposure to particulate pollution, genes associated with glutathione pathways, and DNA methylation in a cohort of older men",Environ Health Perspect,continuous,continuous,No,p-value ?0.05
+116,,,chemical,air pollution,intermediate-term black carbon,biomarker,DNAmethylation,genes-selected,,,continuous,continuous,Yes,p-value ?0.05
+116,,,chemical,air pollution,long-term PM2.5 mass,biomarker,DNAmethylation,genes-selected,,,continuous,continuous,No,p-value ?0.05
+116,,,chemical,air pollution,long-term black carbon,biomarker,DNAmethylation,genes-selected,,,continuous,continuous,No,p-value ?0.05
+116,,,chemical,air pollution,intermediate-term sulfate,biomarker,DNAmethylation,genes-selected,,,continuous,continuous,Yes,p-value ?0.05
+116,,,chemical,air pollution,long-term sulfate,biomarker,DNAmethylation,genes-selected,,,continuous,continuous,No,p-value ?0.05
+117,Alexeeff SE,2011,chemical,air pollution,intermediate-term black carbon,biomarker,inflammation biomarkers,inflammation biomarkers,medium-term exposure to traffic-related air pollution and markers of inflammation and endothelial function,Environ Health Perspect,continuous,continuous,Yes,p-value < 0.05
+118,Rahilly-Tierney CR,2011,biomarker,cholesterol level,high-density lipoprotein cholesterol,disease,mortality,mortality,relation between high-density lipoprotein cholesterol and survival to age 85 years in men (from the VA Normative Aging Study),Am J Cardiol,continuous,dichotomous-time to event,Yes,p-value < 0.05
+119,Zhu ZZ,2011,biomarker,DNAmethylation,genes-selected,disease,incident cancer,incident cancer,"repetitive element hypomethylation in blood leukocyte DNA and cancer incidence, prevalence, and mortality in elderly individuals: the Normative Aging Study",Cancer Causes Control,continuous,dichotomous-time to event,Yes,p-value < 0.05
+119,,,biomarker,DNAmethylation,genes-selected,disease,mortality,mortality,,,continuous,dichotomous-time to event,Yes,p-value < 0.05
+120,Power MC,2011,chemical,air pollution,long-term black carbon,biomarker,cognitive function,MMSE score,traffic-related air pollution and cognitive function in a cohort of older men,Environ Health Perspect,continuous,continuous,Yes,p-value < 0.05
+120,,,chemical,air pollution,long-term black carbon,biomarker,cognitive function,global cognitive score,,,continuous,continuous,Yes,p-value < 0.05
+121,Ren C,2011,chemical,air pollution,intermediate-term PM2.5 mass,biomarker,oxidative DNA damage,oxidative DNA damage,urinary 8-hydroxy-2'-deoxyguanosine as a biomarker of oxidative DNA damage induced by ambient pollution in the Normative Aging Study,Occup Environ Med,continuous,continuous,Yes,p-value < 0.05
+121,,,chemical,air pollution,intermediate-term NO2,biomarker,oxidative DNA damage,oxidative DNA damage,,,continuous,continuous,Yes,p-value < 0.05
+121,,,chemical,air pollution,intermediate-term ozone,biomarker,oxidative DNA damage,oxidative DNA damage,,,continuous,continuous,Yes,p-value < 0.05
+121,,,chemical,air pollution,intermediate-term PM2.5 elemental components,biomarker,oxidative DNA damage,oxidative DNA damage,,,continuous,continuous,No,p-value < 0.05
+121,,,chemical,air pollution,intermediate-term CO,biomarker,oxidative DNA damage,oxidative DNA damage,,,continuous,continuous,No,p-value < 0.05
+121,,,chemical,air pollution,intermediate-term particle number,biomarker,oxidative DNA damage,oxidative DNA damage,,,continuous,continuous,Yes,p-value < 0.05
+121,,,chemical,air pollution,intermediate-term sulfate,biomarker,oxidative DNA damage,oxidative DNA damage,,,continuous,continuous,Yes,p-value < 0.05
+121,,,chemical,air pollution,intermediate-term organic carbon,biomarker,oxidative DNA damage,oxidative DNA damage,,,continuous,continuous,Yes,p-value < 0.05
+121,,,chemical,air pollution,intermediate-term black carbon,biomarker,oxidative DNA damage,oxidative DNA damage,,,continuous,continuous,No,p-value < 0.05
