@@ -206,3 +206,31 @@ The approach is scalable and can support large-scale research analysis.
 
 ```bash
 pip install -r requirements.txt
+Steps:
+
+Add OpenAI API key in .env file
+Run notebooks in order: Phase1 → Phase5
+Generate outputs and evaluate results
+
+```
+---
+
+## 15. Repository Structure
+├── notebooks/
+│   ├── Phase1.ipynb
+│   ├── Phase_2_PubMed.ipynb
+│   ├── Phase3.ipynb
+│   ├── Phase_4.ipynb
+│   └── Phase5.ipynb
+│
+├── data/
+│   ├── output_11.csv
+│   └── CohortNetwork_ES&T_SI_B_Main.xlsx
+│
+├── important results/
+│   ├── Phase5_extraction_results.csv
+│   ├── Phase5_extraction_results_metrics.csv
+│   └── other result files
+│
+├── requirements.txt
+└── README.md
