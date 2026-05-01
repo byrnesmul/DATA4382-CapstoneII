@@ -231,12 +231,6 @@ The approach is scalable and can support large-scale research analysis.
 
 ## 14. How to Run
 
-### Requirements
-
-```bash
-pip install -r requirements.txt
-```
-
 1. Clone the repository:
 
 ```bash
@@ -299,6 +293,12 @@ OPENAI_API_KEY=your_key_here
 
 ---
 
+## 16. Requirements
+
+```bash
+pip install -r requirements.txt
+```
+---
 ## Credits
 
 Developed by Laura Tambwe and Byrnes Mulumbeni  
