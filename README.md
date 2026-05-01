@@ -65,7 +65,7 @@ Key observations:
 - Cardiovascular and respiratory outcomes appear most frequently  
 - Fewer observations are available in deeper taxonomy levels  
 
-### Data Distribution Example
+### Example Data Distribution 
 ![](Images/datalayer.png)
 ---
 
@@ -233,10 +233,11 @@ The approach is scalable and can support large-scale research analysis.
 
 1. Clone the repository:
 
-```
+```bash
 git clone YOUR_REPOSITORY_LINK
 cd YOUR_REPOSITORY_NAME
 ```
+
 2. Install dependencies:
 
 ```bash
@@ -245,9 +246,9 @@ pip install -r requirements.txt
 
 3. Set your OpenAI API key:
 
-```
 Create a `.env` file in the root directory and add:
 
+```
 OPENAI_API_KEY=your_key_here
 ```
 4. Run the notebooks in order:
