@@ -182,14 +182,6 @@ Key observations:
 
 These files contain extracted relationships, evaluation metrics, and comparisons across different extraction strategies.
 
----
-
-### Visual Results
-
-(Add your screenshots in an `images/` folder)
-
-![Example Output](images/output_example.png)
-![Performance](images/performance.png)
 
 ---
 
