@@ -246,12 +246,10 @@ Steps:
 ## 15. Repository Structure
 
 ```bash
-├── notebooks/
-│   ├── Phase1.ipynb
-│   ├── Phase_2_PubMed.ipynb
-│   ├── Phase_3.ipynb
-│   ├── Phase_4.ipynb
-│   └── Phase_5.ipynb
+├── images/
+│   ├── Phase5output.png
+│   ├── datalayer.png
+│   └── UTA-DataScience-Logo.png
 │
 ├── data/
 │   ├── output_11.csv
@@ -260,8 +258,24 @@ Steps:
 ├── important_results/
 │   ├── Phase5_extraction_results.csv
 │   ├── Phase5_extraction_results_metrics.csv
-│   └── other_result_files
+│   ├── Phase5_extraction_results_with_strategies.csv
+│   └── Phase5_extraction_results_with_strategies_metrics.csv
 │
-├── requirements.txt
-└── README.md
+├── notebooks/
+│   ├── Phase_1.ipynb
+│   ├── Phase_2_PubMed.ipynb
+│   ├── Phase_3.ipynb
+│   ├── Phase_4.ipynb
+│   └── Phase_5.ipynb
+│
+├── README.md
+└── requirements.txt
 ```
+
+---
+
+## Credits
+
+Developed by Laura Tambwe and Byrnes Mulumbeni  
+DATA 4382 Capstone, University of Texas at Arlington, Spring 2026  
+Advisor: Dr. Yike Shen
