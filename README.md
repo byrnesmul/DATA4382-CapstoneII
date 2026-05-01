@@ -270,7 +270,7 @@ OPENAI_API_KEY=your_key_here
 │
 ├── data/
 │   ├── output_11.csv
-│   └── CohortNetwork_ES&T_SI_B_Main.xlsx
+│   └── CohortNetwork_ESandT_SI_B_Main.xlsx
 │
 ├── important_results/
 │   ├── Phase5_extraction_results.csv
