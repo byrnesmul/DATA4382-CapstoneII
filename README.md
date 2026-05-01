@@ -258,7 +258,6 @@ OPENAI_API_KEY=your_key_here
 - Phase_3.ipynb  
 - Phase_4.ipynb  
 - Phase_5.ipynb
-- 
 ---
 
 ## 15. Repository Structure
