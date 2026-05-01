@@ -1,3 +1,5 @@
+![](Images/UTA-DataScience-Logo.png)
+
 # AI-Powered Environmental Health Literature Extraction Pipeline
 
 Automated extraction of environmental exposures and health outcomes from scientific literature using a structured 3-layer taxonomy and large language models.
