@@ -121,11 +121,48 @@ Key observations:
 
 ### Performance Summary
 
-| Setup              | Input Type | Observation |
-|------------------|-----------|------------|
-| Phase 4          | Abstracts | Moderate performance due to limited context |
-| Phase 5          | Full Text | Improved accuracy with richer information |
-| Semantic Matching | Full Text | Best performance by handling wording variations |
+#### Phase 4 – Abstract-Based Extraction (Validation)
+
+| Category        | Layer 1 | Layer 2 | Layer 3 |
+|----------------|--------|--------|--------|
+| Exposure Accuracy | 79.1% | 58.1% | 52.3% |
+| Outcome Accuracy  | 43.5% | 60.0% | 51.8% |
+| Combined Accuracy | 61.4% | 59.1% | 52.0% |
+
+---
+
+#### Phase 5 – Full Pipeline (Baseline Metrics)
+
+| Metric            | Precision (%) | Recall (%) | F1 Score (%) |
+|------------------|-------------|-----------|-------------|
+| Exposure Layer 1 | 86.96 | 36.59 | 51.50 |
+| Exposure Layer 2 | 62.26 | 17.04 | 26.76 |
+| Exposure Layer 3 | 26.32 | 11.22 | 15.73 |
+| Outcome Layer 1  | 86.15 | 54.11 | 66.47 |
+| Outcome Layer 2  | 53.95 | 10.65 | 17.79 |
+| Outcome Layer 3  | 23.90 | 8.75  | 12.81 |
+
+---
+
+#### Phase 5 – Full Pipeline with Semantic Strategies (Best Results)
+
+| Metric            | Precision (%) | Recall (%) | F1 Score (%) |
+|------------------|-------------|-----------|-------------|
+| Exposure Layer 1 | 100.00 | 94.06 | 96.94 |
+| Exposure Layer 2 | 84.89  | 91.42 | 88.03 |
+| Exposure Layer 3 | 83.52  | 93.83 | 88.37 |
+| Outcome Layer 1  | 99.39  | 93.16 | 96.18 |
+| Outcome Layer 2  | 89.36  | 89.36 | 89.36 |
+| Outcome Layer 3  | 65.96  | 82.82 | 73.43 |
+
+---
+
+#### Coverage
+
+| Metric                | Value |
+|----------------------|------|
+| Papers with Match    | 119 / 121 |
+| Coverage Percentage  | 98.35% |
 
 ---
 
