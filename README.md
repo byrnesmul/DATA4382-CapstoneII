@@ -168,13 +168,7 @@ Key observations:
 
 ### Example Output
 
-| Paper ID | Exposure        | Outcome                     |
-|----------|---------------|----------------------------|
-| 001      | Air Pollution | Cardiovascular Disease     |
-| 002      | Lead Exposure | Cognitive Decline          |
-| 003      | Diet          | Obesity                    |
-
----
+![](Images/Phase5output.png) 
 
 ### Output Files
 
